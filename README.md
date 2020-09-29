@@ -15,7 +15,7 @@ your monthly frame is ₪359.50 / 880.00
 the balance is 510.50
 ```
 ## Advantages:
-#### you just wanna know how much of money left to spend on this mounts you not nee -
+#### you just wanna know how much of money left to spend on this mounts you not need -->
 - to login!
 - to open browser the middle of your important work over the terminal!
 - to navigate over the slow and frustrating ten-bis website and menus!
